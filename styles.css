@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+a {
+  color:#ff7799;
+    padding:0px 0px 0px 100px;
+}
+
+a:hover {
+  color:#dd3311;
+    padding:0px 0px 0px 100px;
+}
+
+h1 {
+  font-weight:600;
+  padding:0px 0px 0px 50px;
+}
+h2 {
+  font-weight:400;
+  padding:0px 0px 0px 25px;
+}
+
+p {
+  padding:0px 310px 0px 0px;
+}
+
+body {
+  background-color: #ddffbb;
+  font-family:sans-serif;
+  margin:50px 50px 50px 450px;
+  padding:50px;
+  color:#333;
+}
+
+li {
+  list-style:none;
+}
+
+img {
+  border:10px solid white;
+}
+
+b {
+  padding:0px 0px 0px 40px;
+}
+
+.SNS {
+  padding:0px 0px 0px 100px;
+}
+
+.HOME {
+  float: left;
+}

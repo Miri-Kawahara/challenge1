@@ -5,6 +5,10 @@ a {
     padding:0px 0px 0px 100px;
 }
 
+a:visited {
+  color:green;
+}
+
 a:hover {
   color:#dd3311;
     padding:0px 0px 0px 100px;
